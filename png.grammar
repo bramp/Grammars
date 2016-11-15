@@ -373,7 +373,7 @@
                 <structref name="sPLT" id="260" repeatmin="0" structure="id:199"/>
                 <structref name="sRGB" id="261" repeatmin="0" structure="id:213"/>
                 <structref name="IEND" id="262" repeatmin="0" structure="id:236"/>
-                <structref name="Chunk" id="263" structure="id:51"/>
+                <structref name="Chunk" id="263" repeatmin="0" structure="id:51"/>
             </structure>
         </structure>
     </grammar>
